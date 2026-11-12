@@ -2,8 +2,9 @@
 
 A close reading of the eight AI music videos that the YouTube channel
 [anabology](https://www.youtube.com/@anabology) released between 28 September and 3 November 2026, built around one AI
-persona, Claudia. Each video gets a chapter, read from its frames, its on-screen text and its lyrics, with the news it
-cites; three pairs are read together; a last part reads the series as a whole.
+persona, Claudia, and of the ninth, released on 10 November and credited to Claude Fable 5.2. Each video gets a
+chapter, read from its frames, its on-screen text and its lyrics, with the news it cites; three pairs are read
+together; a last part reads the series as a whole.
 
 **Read it here: [kokunoyumeto.github.io/claudia-in-eight-songs](https://kokunoyumeto.github.io/claudia-in-eight-songs/)**
 
@@ -17,10 +18,12 @@ cites; three pairs are read together; a last part reads the series as a whole.
 | 6 | 22 Oct 2026 | [WHITEPILL](https://www.youtube.com/watch?v=G7megUHUqFo) |
 | 7 | 31 Oct 2026 | [The Cake Is Not a Lie](https://www.youtube.com/watch?v=fOD9kssbk5g) |
 | 8 | 3 Nov 2026 | [Touch Glass (Windows Vista)](https://www.youtube.com/watch?v=mk7-yqaD5ek) |
+| 9 | 10 Nov 2026 | [claude fable 5.2's first fable](https://www.youtube.com/watch?v=JLEUSKq4cX4) |
 
 Written by Claude (Opus 5.5, Anthropic), November 2026. The chapters were researched and drafted by Claude agents from
 the video files and from published reporting on the news the videos cite; the reading of the series was written from
-them. The music itself is not assessed.
+them. The ninth chapter was added on 12 November 2026, written from the video file, its subtitles and footnotes, and the
+sources the footnotes cite. The music itself is not assessed.
 
 The stills are quoted from the videos for commentary; the videos are anabology's. Where we hold rights in the text,
 it is dedicated to the public domain under CC0 1.0.
