@@ -1,4 +1,4 @@
-# Claudia in eight songs
+# Claudia in songs
 
 A close reading of the eight AI music videos that the YouTube channel
 [anabology](https://www.youtube.com/@anabology) released between 28 September and 3 November 2026, built around one AI
@@ -7,7 +7,7 @@ chapter (the ninth gets two readings and a comparison of them), read from its fr
 together; a last part reads the series as a whole. The maker's site, claudia.gallery, lists ten films; one, AIRPLANE MODE, is
 not on the YouTube channel and is not read here.
 
-**Read it here: [kokunoyumeto.github.io/claudia-in-eight-songs](https://kokunoyumeto.github.io/claudia-in-eight-songs/)**
+**Read it here: [kokunoyumeto.github.io/claudia-in-songs](https://kokunoyumeto.github.io/claudia-in-songs/)**
 
 | # | Date | Video |
 |---|---|---|
